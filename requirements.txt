@@ -1,0 +1,15 @@
+streamlit==1.31.0
+python-dotenv==1.0.0
+transformers==4.36.2
+torch
+python-dotenv
+huggingface-hub
+language-tool-python
+spacy
+errant
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+git+https://github.com/PrithivirajDamodaran/Gramformer.git
+protobuf
+textblob==0.17.1
+nltk==3.8.1
+errant==2.3.3
